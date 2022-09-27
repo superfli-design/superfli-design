@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @superfli-design
-- 👀 I’m interested in any programming job 
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on any complex web designing 
-- 📫 How to reach me call 08106834054 or email on atulegwu54@gmail.com
-
-<!---
-superfli-design/superfli-design
---->
+I'm Cyprian a web developer I work with some technologies to help 
+Build and design a smooth and flexible websites I have greatly developed
+ my skills in HTML, CSS, JQUERY, BOOTSTAP AND WORDPRESS,
+YOU CAN REACH ME ON 08106834054 OR EMAIL atulegwu54@gmail.com
